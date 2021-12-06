@@ -1,8 +1,9 @@
-baseURL = "https://github.com/RUTHOLE/Final-Project-02805.git"
+baseURL = "https://iriss04.github.io/"
 languageCode = 'en-us'
 title = 'Greek Mythology'
-theme = 'ananke'
-publishDir = "docs"
+theme = "ananke"
+publishDir = "public"
+
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
